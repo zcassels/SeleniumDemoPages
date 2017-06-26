@@ -8,9 +8,6 @@
     "express": "~4.4.1",
     "request": "~2.36.0"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zcassels/SeleniumDemoPages.git"
