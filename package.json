@@ -1,21 +1,6 @@
 {
-  "name": "selenium_challenges",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.html",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "express": "~4.4.1",
     "request": "~2.36.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zcassels/SeleniumDemoPages.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zcassels/SeleniumDemoPages/issues"
-  },
-  "homepage": "https://github.com/zcassels/SeleniumDemoPages#readme"
+  }
 }
